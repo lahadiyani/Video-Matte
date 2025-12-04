@@ -1,0 +1,7 @@
+venv
+venv/*
+__pycache__/
+*.pyc
+mascot.mp4
+output.mp4
+*.log
